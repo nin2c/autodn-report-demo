@@ -1,0 +1,12 @@
+{
+  "kind": "edx",
+  "elements": [
+    "C",
+    "O",
+    "Si",
+    "Ti"
+  ],
+  "seed": 2726945983,
+  "wafer_id": "JS07846_14",
+  "defect_id": "JS07846_14_D1"
+}
