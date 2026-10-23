@@ -8,3 +8,4 @@ Static demo report for the AutoDN case-analysis workflow.
 - `images/`: mock wafer maps / SEM / EDX assets
 
 All data is mock data for demonstration only.
+https://nin2c.github.io/autodn-report-demo/#hl
